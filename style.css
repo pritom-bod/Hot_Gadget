@@ -1,0 +1,28 @@
+.buy-now{
+    background-image:  linear-gradient(to top, #fff000 0%, #FFFFC5 50%, #fff000 100%);
+    border: none;
+    border-radius: 5px;
+    padding: 8px 25px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.category-section {
+    margin-bottom: 80px;
+}
+
+.title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+.category-item {
+    padding:  20px 20px;
+}
